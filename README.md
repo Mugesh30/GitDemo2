@@ -5,3 +5,5 @@ manually create a file
 git add filename
 git commit --m commit message""
 git push
+change the file in github repository
+git pull
